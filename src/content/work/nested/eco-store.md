@@ -11,11 +11,11 @@ tags:
   - Responsive
 ---
 
-><img src="/public/assets/eco-store/section-health.png">
-><img src="/public/assets/eco-store/section-decoration.png">
-><img src="/public/assets/eco-store/whyus.png">
-><img src="/public/assets/eco-store/gallery.png">
-><img src="/public/assets/eco-store/footer.png">
+><img src="/assets/eco-store/section-health.png">
+><img src="/assets/eco-store/section-decoration.png">
+><img src="/assets/eco-store/whyus.png">
+><img src="/assets/eco-store/gallery.png">
+><img src="/assets/eco-store/footer.png">
 
 This project involves the creation of an e-commerce website for an eco-store specializing in the sale of organically crafted fashion items.
 

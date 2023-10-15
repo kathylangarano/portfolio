@@ -11,8 +11,8 @@ tags:
   - Pages
 ---
 
-><img src="/public/assets/task-manager/projects.png">
-><img src="/public/assets/task-manager/notfound.png">
+><img src="/assets/task-manager/projects.png">
+><img src="/assets/task-manager/notfound.png">
 
 A React Native application project has been developed to facilitate users in organizing both personal and professional tasks. 
 This application offers the functionality of user account login, allowing for the creation, management, and deletion of tasks and projects. Additionally, users have the ability to edit their profiles and incorporate profile images as part of their personalization.

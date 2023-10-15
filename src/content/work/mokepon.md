@@ -11,9 +11,9 @@ tags:
   - JavaScript
   - Express
 ---
-><img src="/public/assets/mokepon/map.png">
-><img src="/public/assets/mokepon/attack.png">
-><img src="/public/assets/mokepon/victory.png">
+><img src="/assets/mokepon/map.png">
+><img src="/assets/mokepon/attack.png">
+><img src="/assets/mokepon/victory.png">
 
 
 I developed this game using HTML, CSS, and JavaScript. In the game, you have the option to choose a single player, and within the canvas-based map, you engage in battles against another player.

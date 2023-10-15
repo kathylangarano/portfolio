@@ -11,10 +11,10 @@ tags:
   - Pages
 ---
 
-> <img src="/public/assets/tesla/model3.png">
-><img src="/public/assets/tesla/modely.png">
-><img src="/public/assets/tesla/house.png">
-><img src="/public/assets/tesla/accesories.png">
+> <img src="/assets/tesla/model3.png">
+><img src="/assets/tesla/modely.png">
+><img src="/assets/tesla/house.png">
+><img src="/assets/tesla/accesories.png">
 
 
 I designed a Tesla landing page that closely emulates the original using the Tailwind CSS framework and Astro. Notably, the navbar and slide components on the page exhibit exceptional quality and functionality.

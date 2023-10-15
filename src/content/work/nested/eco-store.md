@@ -4,7 +4,7 @@ publishDate: 2022-03-04 00:00:00
 img: /assets/eco-store/article.png
 img_alt: Ecological impact introduction, hanging bath towels photo and explore button.
 description: |
-  I developed an eco-store web page, made with Saas components . 
+  I developed an eco-store web website using Saas components. 
 tags:
   - Design
   - Saas
@@ -17,10 +17,10 @@ tags:
 ><img src="/public/assets/eco-store/gallery.png">
 ><img src="/public/assets/eco-store/footer.png">
 
-This is a project where I created an e-commerce web page for an eco-store to sell organic crafted fashion items.
+This project involves the creation of an e-commerce website for an eco-store specializing in the sale of organically crafted fashion items.
 
-This project was focused to implement Sass At-rules, with a beauty and minimalist design.
+The primary focus of this project was the implementation of Sass At-rules, with an emphasis on achieving a beautiful and minimalist design.
 
-I added an article style at the beginning of the web page, 2 sections of product cards, a gallery section, location and a footer to add important information about.
+The website features an introductory article-style section at the beginning, followed by two product card sections, a gallery section, location information, and a footer containing essential details.
 
-The product cards have a beauty design that allow to add a description and photo.
+The product cards are designed with aesthetics in mind, allowing for the inclusion of descriptions and photos.

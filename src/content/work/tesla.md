@@ -4,7 +4,7 @@ publishDate: 2022-03-02 00:00:00
 img: /assets/tesla/home-tesla.png
 img_alt: Tesla similar main page
 description:
-  Tesla landing page with astro and tailwind
+  Tesla landing page with Astro and Tailwind
 tags:
   - Astro
   - Tailwind
@@ -16,6 +16,7 @@ tags:
 ><img src="/public/assets/tesla/house.png">
 ><img src="/public/assets/tesla/accesories.png">
 
-I made Tesla landing page as the original with tailwind and Astro, the navbar and the slide components are amazing.
+
+I designed a Tesla landing page that closely emulates the original using the Tailwind CSS framework and Astro. Notably, the navbar and slide components on the page exhibit exceptional quality and functionality.
 
 
